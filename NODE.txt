@@ -1,0 +1,12 @@
+=====Buoi 1===== (Ngày 19-11-2024)
+*SPA
+*Component
+*Rendering element
+
+=====Buoi 2===== (Ngày 20-11-2024)
+*Handling Events: Sự kiện onClick
+    - có Pamas
+    -không có Pamas
+
+*State:nếu như State thay đổi giá trị => component chạy lại
+*List key
